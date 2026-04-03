@@ -16,7 +16,7 @@ class Solution {
             curr = curr.next;
         }
 
-        // attach remaining
+        //remaining
         if (list1 != null) curr.next = list1;
         else curr.next = list2;
 
