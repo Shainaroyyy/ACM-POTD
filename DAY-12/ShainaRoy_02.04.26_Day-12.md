@@ -1,4 +1,4 @@
-## Solution DAY-12
+## Solution DAY-12 
 
 class Solution {
     public ListNode deleteDuplicates(ListNode head) {

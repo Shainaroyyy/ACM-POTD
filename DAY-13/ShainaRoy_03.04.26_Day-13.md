@@ -10,6 +10,6 @@ class Solution {
             b = (b == null) ? headA : b.next;
         }
 
-        return a; // intersection node or null
+        return a; // node or null
     }
 }
